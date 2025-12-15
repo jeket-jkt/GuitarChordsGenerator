@@ -1,0 +1,12 @@
+Key: C
+Mode: rules
+
+Chord progression:
+  F#m - Cm - F - E
+
+Strumming pattern:
+  D D U U D
+
+Tempo: 100 BPM
+
+------------------------------------
